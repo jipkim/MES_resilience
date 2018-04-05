@@ -4,8 +4,8 @@ This code was developed under Julia v0.6 by Jip Kim in 2018.
 The following packages must be installed:
 
   - Gurobi
-  - JuMP
   - Graphs
+  - JuMP
   - JLD  
 
 This code includes two execution files:
